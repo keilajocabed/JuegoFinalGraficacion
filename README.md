@@ -37,3 +37,5 @@ El juego de la serpiente 3D se elaboró como parte de un proyecto final de la ma
 
 ### Visualización del Juego
 ------------
+![JuegoSerpiente](https://user-images.githubusercontent.com/62485754/171730832-24718816-89d3-453b-badc-32f04f2a3000.png)
+
